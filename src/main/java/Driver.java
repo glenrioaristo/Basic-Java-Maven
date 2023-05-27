@@ -12,9 +12,7 @@ public class Driver {
 		
 		System.out.println("Hasil:" + counter.getCount());
 		
-		
-		
-		System.out.println("Hasil:" + counter.getCount());		
+				
 	}
 
 }
